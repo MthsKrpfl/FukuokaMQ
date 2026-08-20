@@ -1,0 +1,20 @@
+{
+  "results_csv": "results/measurements.csv",
+  "estimates_csv": "results/estimates.csv",
+  "gate_seconds": 10.0,
+  "fit_floor_abs_s": 0.05,
+  "fit_floor_rel": 10.0,
+  "full_types": [
+    1,
+    4
+  ],
+  "_comments": {
+    "_scope": "Read by scripts/estimate_kstar.py only. measure_file.py, plot_instance.py, plot_summary.py and algorithm_comparison.py resolve their paths themselves and ignore this file. The paths below stay relative to the project root, not to scripts/.",
+    "results_csv": "Base path of the measurement record: every results/type<T>/<label>/measurements*.csv beside it is read.",
+    "estimates_csv": "Where the k* summary is written; estimate_details.json lands next to it.",
+    "gate_seconds": "Lower bound: only GB times above this are used for the fit (overhead-free).",
+    "fit_floor_abs_s": "Absolute floor in seconds below which a point counts as overhead, not signal.",
+    "fit_floor_rel": "Relative floor: this many times the fastest measured time. The fit uses max(fit_floor_abs_s, fit_floor_rel x fastest).",
+    "full_types": "Types getting the full fit + extrapolation (interior k*). Every other type is reported from its measured points only."
+  }
+}

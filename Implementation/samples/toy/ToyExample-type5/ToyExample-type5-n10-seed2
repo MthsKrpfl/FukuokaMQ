@@ -1,0 +1,14 @@
+Galois Field : GF(2)[x] / x^8 + x^4 + x^3 + x^2 + 1
+Number of variables (n) : 10
+Number of polynomials (m) : 7
+Seed : 2
+Order : graded reverse lex order
+
+*********************
+8d 78 94 7b 2c bd 86 08 75 5a fb 72 52 42 37 f9 3a eb 66 b4 12 ee 61 c0 2f f1 5a a5 fa b0 9f 60 5d 34 52 fc 0a b2 7d 7a 48 36 c7 ea ef 31 c9 ac e7 75 ca df 15 bc 7d e6 9a 9e 6c 6a de 27 c9 a4 17 03 ;
+f6 9b 64 8c a9 9d ca 58 f1 03 9d 70 52 8a f9 23 cd cb 84 73 8c 3c 46 a3 46 76 8d 19 7c 68 0c 22 4b 6e e6 fc cc a5 37 e2 f6 b7 4c f3 68 6a a9 ae e1 6f 4d 1c e2 d1 83 4e d9 b1 6b b2 6f 91 44 e9 0f 13 ;
+7c 24 54 63 80 27 7e 1e e7 1f b3 02 3e 92 61 dc a8 a6 55 0f ca 18 0a c3 18 d9 2a 11 e8 48 42 3b a9 fb 66 1b 24 58 8d 8d 9a 4c 48 d9 e5 43 98 c8 68 3d 7e 84 3d be 28 0c d5 4b a1 65 76 aa a9 e7 4d a2 ;
+35 31 d9 1d 8f 7d bf f3 cb f3 d7 c3 64 6d 22 d3 1b b4 14 0c 7c bc 28 96 94 14 5b 0b 4b 47 c1 64 e4 4a 10 44 e2 d5 dd f7 8b 5d f8 48 b9 4c 13 ba 9c 23 d0 a8 00 4c 5f b8 5e f9 e4 17 8b 83 a3 a6 84 49 ;
+c4 34 bd ac c8 06 a7 b8 64 99 54 4c 2c 7a fe dd 15 b0 7f c2 e3 d4 ce f3 a5 98 32 b8 83 69 48 b9 fa 7a 0e 53 2f a0 48 bc 09 c8 a8 af 81 3a 4f 0c 56 d0 09 0c 63 98 c5 75 4a e6 b8 d2 ce 37 e0 b4 c2 ea ;
+aa 77 b5 5a 59 67 77 1a f4 7b 01 b1 13 27 7c 89 c8 db 15 de 9d 33 79 c2 fa 16 c5 13 60 08 24 63 5a 55 ac 95 2c 37 e6 32 a0 c4 4f d3 52 1d a7 3f 71 31 11 b6 ce ec 45 51 05 ed ea 94 22 84 7d d1 b7 e7 ;
+a9 3d 10 97 bd 74 df 3f 6e 93 46 57 03 6a d1 a6 51 cf f3 f0 6c fd b4 ad e0 3b c4 8a e2 15 d6 84 79 8e 34 f9 7b e5 bd 59 ae a8 ff 2b 08 12 d7 49 b0 25 df a9 66 f2 e5 64 4f 41 3b 89 92 c0 5d eb a0 68 ;

@@ -1,0 +1,10 @@
+Galois Field : GF(31)
+Number of variables (n) : 5
+Number of polynomials (m) : 3
+Seed : 1
+Order : graded reverse lex order
+
+*********************
+16 6 18 14 21 15 30 14 27 30 5 14 18 28 19 8 28 25 19 0 14 ;
+14 22 21 18 7 10 9 10 6 28 28 3 8 19 24 21 29 9 20 26 21 ;
+15 23 16 15 22 22 7 5 20 13 26 29 31 23 27 14 6 29 24 22 14 ;
